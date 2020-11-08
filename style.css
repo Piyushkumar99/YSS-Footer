@@ -119,4 +119,11 @@ li i {
     .footer-items {
         width: 100%;
     }
+    .left {
+        display: none;
+    }
+
+    .center-right {
+        display: none;
+    }
 }
